@@ -29,7 +29,7 @@ document.getElementById('adicionar-prod').addEventListener('click', function () 
 
 
 
-document.getElementById('adicionar').addEventListener('click',
+document.getElementById('adicionar1').addEventListener('click',
     function () {
 
         const itemSelecionado = document.getElementById('item').value;
@@ -61,7 +61,7 @@ document.getElementById('adicionar-prod1').addEventListener('click', function ()
 
 
 
-document.getElementById('adicionar').addEventListener('click',
+document.getElementById('adicionar2').addEventListener('click',
     function () {
 
         const itemSelecionado = document.getElementById('item2').value;
